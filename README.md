@@ -3,4 +3,3 @@
 
 ![willianrod's wakatime stats](https://readmestats2.vercel.app/api/wakatime?username=wherbanana)
 
-![Readme Card](https://readmestats2.vercel.app/api/pin/?username=wherbanana&repo=OrderBlade)
