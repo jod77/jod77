@@ -1,6 +1,4 @@
 
-
-![Alt text](https://wakatime.com/share/@wherbanana/37beaa6c-a23d-45f4-adf4-a0da9552b3a3.svg)
 <img src="https://wakatime.com/share/@wherbanana/37beaa6c-a23d-45f4-adf4-a0da9552b3a3.svg">
 
 
