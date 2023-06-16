@@ -8,4 +8,4 @@ Since Apr 2022:
 ![willianrod's wakatime stats](https://readmestats2.vercel.app/api/wakatime?username=wherbanana)
 
 
-![Visitor](https://visitor-badge.laobi.icu/badge?page_id=jod77)
+![Visitor](https://visitor-badge.laobi.icu/badge?page_id=wherbanana)
